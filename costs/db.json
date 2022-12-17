@@ -31,15 +31,6 @@
       "id": 4
     },
     {
-      "name": "Corel draw",
-      "budget": "4578",
-      "category": {
-        "id": "3",
-        "name": "Design"
-      },
-      "id": 5
-    },
-    {
       "name": "Html / CSS",
       "budget": "7885",
       "descrição": "projeto inicial angula",

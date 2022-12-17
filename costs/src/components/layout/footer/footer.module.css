@@ -1,0 +1,44 @@
+
+
+/*----- MEDIA QUERIES LEPTOP={G} ------*/
+@media (max-width: 1360px){
+    .footer_conteiner {
+        background-color: #222;
+        color: #fff;
+        padding: 10px;
+        text-align: center;
+    }   
+    .social_list {
+        display: flex;
+        justify-content: center;
+    }
+    .social_list li {
+        margin: 0 1em;
+    }
+    .social_list li:hover {
+        cursor: pointer;
+        color: #FFBB33;
+    }
+    .social_list li svg {
+        font-size: 1.5em; 
+    }
+    .copy_right {
+        margin-top: 8px;
+    }
+    .copy_right span {
+        font-weight: bold;
+        color: #FFBB33;
+    
+    }
+}
+/*----- MEDIA QUERIES LEPTOP ------*/
+@media (max-width: 1024px){
+   
+}
+/*----- MEDIA QUERIES TABLET ------*/
+@media (max-width: 768px){
+    
+}
+/*----- MEDIA QUERIES DISPOSITIVO MÓVEL={G} ------*/
+@media (max-width: 425px){
+}

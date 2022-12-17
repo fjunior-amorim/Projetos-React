@@ -1,0 +1,54 @@
+.conteine_projeto {
+    width: 80%;
+    margin: 4em auto;
+    min-height: 75%;
+    padding: 2em 4em;
+}
+.conteine_projeto h1,
+.conteine_projeto h2,
+.conteine_projeto p {
+    margin-bottom: 1em;
+}
+.conteine_projeto h1 {
+    background-color: #222;
+    color: #FFBB33;
+    padding: 0.4em;
+}
+.conteine_projeto span {
+    font-weight: bold;
+    background: none;
+    color: #000;
+    font-size: 20px;
+}
+.column {
+    border-bottom: 1px solid #7a7a7a;
+    margin-bottom: 1.2em;
+    padding-bottom: 1.2em;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.btn {
+    background-color: #222;
+    color: #FFFF;
+    padding: 0.5em 1em;
+    transition: 0.5s;
+    border: none;
+    max-height: 40px;
+}
+.btn:hover {
+    cursor: pointer;
+    color: #FFBB33;
+}
+.project_info {
+    width: 100%;
+}
+.project_info_two {
+  width: 490px;
+  margin-right: 400px;
+}
+.descricao {
+    margin-top: 5px;
+    margin-left: 20px;
+}

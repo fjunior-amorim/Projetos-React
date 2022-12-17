@@ -1,0 +1,71 @@
+{
+  "projects": [
+    {
+      "name": "JavaScript",
+      "budget": "5000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "id": 2,
+      "descrição": "projeto inicial javaScript"
+    },
+    {
+      "name": "React Native",
+      "budget": "502000",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "id": 3,
+      "descrição": "projeto inicial angula"
+    },
+    {
+      "name": "Angula",
+      "budget": "4578",
+      "descrição": "projeto inicial angula",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "id": 4
+    },
+    {
+      "name": "Corel draw",
+      "budget": "4578",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "id": 5
+    },
+    {
+      "name": "Html / CSS",
+      "budget": "7885",
+      "descrição": "projeto inicial angula",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "id": 6
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}

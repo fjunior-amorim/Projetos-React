@@ -1,0 +1,21 @@
+.projeto {
+    padding: 2em 3em;
+    width: 100%;
+    min-height: 75%;
+}
+.project_title {
+    display: flex;
+    justify-content: space-between;
+}
+.card_conteiner {
+    margin-top: 2em;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    row-gap: 20px;
+}
+.card_conteiner p {
+    margin: 0 auto;
+    font-size: 18px;
+    font-weight: 600;
+}
